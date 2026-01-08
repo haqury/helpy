@@ -4,7 +4,7 @@
 // 	protoc        v3.21.12
 // source: common.proto
 
-package gen
+package helpy
 
 import (
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
@@ -102,7 +102,7 @@ const file_common_proto_rawDesc = "" +
 	"\bmetadata\x18\x04 \x03(\v2!.common.ApiResponse.MetadataEntryR\bmetadata\x1a;\n" +
 	"\rMetadataEntry\x12\x10\n" +
 	"\x03key\x18\x01 \x01(\tR\x03key\x12\x14\n" +
-	"\x05value\x18\x02 \x01(\tR\x05value:\x028\x01B\x15Z\x13api-gateway/pkg/genb\x06proto3"
+	"\x05value\x18\x02 \x01(\tR\x05value:\x028\x01B\x19Z\x17github.com/haqury/helpyb\x06proto3"
 
 var (
 	file_common_proto_rawDescOnce sync.Once
