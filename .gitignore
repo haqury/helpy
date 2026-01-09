@@ -1,6 +1,7 @@
 
 .vscode/
 .idea/
+*.xml
 *.swp
 *.swo
 *~
